@@ -1,19 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a09c811c-cf27-41a4-8cf4-98b0a1273ef9" name="Default Changelist" comment="" />
+    <list default="true" id="4d6e09c3-9952-4065-b252-4013bb87e7d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/NIO/BIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/NIO/BIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/NIO/NIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/NIO/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/DetectCycle$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/DetectCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/HasCycle$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/HasCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/LRUCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/LRUCache$SelfLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/LRUCache$SelfLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/LengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPack971.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackIV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackIV562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackIX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackVII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackVIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/backPackX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/DP/coins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/algorithm/sortAlgorithm/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/AQS/MyBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/AQS/MyCountDownLatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/AQS/MyCyclicBarrier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/AQS/MySemaphore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/JMM/GoAheadOfTheRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/JMM/MyThreadLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/createThread/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/createThread/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/createThread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/createThread/MyThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyBlockingQueue$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyBlockingQueue$Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyBlockingQueue$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyForkJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyFutureTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyFutureTask$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/otherModule/MyFutureTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/safeCollection/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/safeCollection/MyCopyOnWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/safeCollection/MyVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyReentrantLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyReentrantReadWriteLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MySynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyThread$ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyThread$th.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/ReentrantWait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/concurrent/thread/ThreadWait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyArrayList$Full.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyConcurrentHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyLinkedList$Full.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyThreadLocal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyThreadLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/dataStructure/MyVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/entity/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/ConcreteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Command/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/ConcreteAggregate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/ConcreteAggregate$ConcreteAggregateIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/ConcreteAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/DevelopmentDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/FinancialDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/GeneralManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/MarketDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/CareTaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/Memento$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/Originator$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Memento/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/BaseJDK/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/BaseJDK/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/BaseJDK/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/selfDefined/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/selfDefined/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/selfDefined/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/selfDefined/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Observer/selfDefined/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/BookedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/CheckedInState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/FreeState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/RoomContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/State/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/ActionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/NewCustomerStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/OldCustomerStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/Strategy/VIPStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/TemplateMethod/BankTemplateMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/TemplateMethod/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/TemplateMethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/behaviorType/TemplateMethod/DrawMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Bridge/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Composite/AbstractFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Composite/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Composite/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Composite/Folder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/AICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/FlyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/SuperCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Decorator/WaterCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/FlyWeight/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/FlyWeight/ChessFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/FlyWeight/ChessWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/FlyWeight/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/FlyWeight/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/IUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/JDKReflectProxy/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/JDKReflectProxy/ProxyFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/JDKReflectProxy/ProxyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/CglibProxyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/CglibTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/test/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/test/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/test/IPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/dynamicProxy/cglibProxy/test/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/staticProxy/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/constructType/Proxy/myProxy/staticProxy/StaticProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/AbstractProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/AbstractProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ProductA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ProductA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ProductB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/AbstractFactory/ProductB2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/builder/AbstractStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factory/ConcreteProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factory/ConcreteProduct1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factory/ConcreteProduct2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factory/SingletonFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/ConcreteFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/ConcreteFactory3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/factoryMethod/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/ConcretePrototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/ConcretePrototype1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/ConcretePrototype2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/DeepClone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/prototype/Prototype1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/Singleton_enum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/reflect/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/reflect/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/serializate/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/gof/createType/singleton/serializate/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda$Compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda$Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda$People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/MethodQuote$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/MethodQuote$WriterOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/MethodQuote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/OptionalLearn$Null.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myLearnJava8/OptionalLearn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/server/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/server/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/server/ServerCenter$ServiceTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/server/ServerCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/test/RPCClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/test/RPCServerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/myRPC/test/RPCServerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/redis/com/RedisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/redis/com/main/RedisJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/redis/com/main/TestRedis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/redis/com/service/RedisService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/MyInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/PropertyUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/ReflectDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/ReflectDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/reflect/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/AbstractTestInterFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/IOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/MemErrorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/MethodOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/StringTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/TestAnything.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/TestInterFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/TestJVM$IThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/TestJVM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/test/ThrowAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/util/FileReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/util/FileWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/zookeeper/learn/ConnectZookeeper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/zookeeper/learn/ConnectZookeeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/wxf/zookeeper/learn/Curator.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,10 +264,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="true" />
-        <option name="localRepository" value="F:\DevelopSoft\apache-maven-3.3.9\Repository" />
-        <option name="mavenHome" value="F:/DevelopSoft/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="F:\DevelopSoft\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="F:\Maven\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -33,146 +275,38 @@
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1vf68M5YkoStDx7shCwFzGuyrl2" />
+  <component name="ProjectId" id="1w2U06asxChlpsKYBKKSh5Q7lcP" />
   <component name="ProjectViewState">
-    <option name="abbreviatePackageNames" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\网盘\new8\src\main\resources" />
-      <recent name="E:\网盘\new8\src\main\java" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.LengthOfLongestSubstring">
-    <configuration name="DenseGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.wxf.dataStructure.DenseGraph" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.wxf.dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.wxf.algorithm.DP.LengthOfLongestSubstring" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.wxf.algorithm.DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.wxf.dataStructure.MyHashMap" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.wxf.dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodQuote.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.wxf.myLearnJava8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java8.wxf.myLearnJava8" />
-      <option name="MAIN_CLASS_NAME" value="java8.wxf.myLearnJava8.MethodQuote" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalLearn.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.wxf.myLearnJava8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java8.wxf.myLearnJava8" />
-      <option name="MAIN_CLASS_NAME" value="java8.wxf.myLearnJava8.OptionalLearn" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LengthOfLongestSubstring" />
-        <item itemvalue="Application.MyHashMap" />
-        <item itemvalue="Application.DenseGraph" />
-        <item itemvalue="JUnit.OptionalLearn.test1" />
-        <item itemvalue="JUnit.MethodQuote.test2" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a09c811c-cf27-41a4-8cf4-98b0a1273ef9" name="Default Changelist" comment="" />
-      <created>1626940635399</created>
+      <changelist id="4d6e09c3-9952-4065-b252-4013bb87e7d3" name="Default Changelist" comment="" />
+      <created>1627655950323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626940635399</updated>
-      <workItem from="1626940638283" duration="406000" />
-      <workItem from="1626941111012" duration="1492000" />
-      <workItem from="1626950209710" duration="51000" />
-      <workItem from="1627005215851" duration="7425000" />
-      <workItem from="1627261678262" duration="23885000" />
-      <workItem from="1627350481110" duration="17688000" />
-      <workItem from="1627434825154" duration="19291000" />
-      <workItem from="1627520914342" duration="21645000" />
-      <workItem from="1627607235851" duration="23900000" />
+      <updated>1627655950323</updated>
+      <workItem from="1627655954510" duration="661000" />
     </task>
     <servers />
   </component>
@@ -180,69 +314,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Java" timestamp="1627022900132">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1627656709570">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="552" y="178" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1627022900132" />
-    <state x="552" y="178" key="#Project_Structure" timestamp="1626940795124">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1627656709570" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1627656621290">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1626940795124" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627022640985">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627656621290" />
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627656730345">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627022640985" />
-    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1627022639317">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627022639317" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1627280984065">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1627280984065" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1627631969889">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627631969889" />
-    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1627638809408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627638809408" />
-    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1627638809408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627638809408" />
-    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1627638809408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627638809408" />
-    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1627638809408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627638809408" />
-    <state width="1877" height="326" key="GridCell.Tab.1.bottom" timestamp="1627635608990">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627635608990" />
-    <state width="1877" height="326" key="GridCell.Tab.1.center" timestamp="1627635608990">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627635608990" />
-    <state width="1877" height="326" key="GridCell.Tab.1.left" timestamp="1627635608990">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627635608990" />
-    <state width="1877" height="326" key="GridCell.Tab.1.right" timestamp="1627635608990">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627635608990" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1626940775238">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1626940775238" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1627544934859">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1627544934859" />
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1627656730345" />
   </component>
 </project>
