@@ -44,7 +44,7 @@ public class LengthOfLongestSubstring {
 
     public static void main(String[] args) {
 //        System.out.println(slidingWindow("abcabcbb") );
-        System.out.println(slidingWindowPlus("jkppo"));
+        System.out.println(slidingWindowPlus("1231jkppo"));
     }
 
     // 滑动窗口法，解决！TODO: 有待优化
