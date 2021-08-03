@@ -193,5 +193,5 @@ public class QuickSort {
         return pit;
     }
 
-    // 回忆双指针法----
+    // 回忆双指针交换法----
 }

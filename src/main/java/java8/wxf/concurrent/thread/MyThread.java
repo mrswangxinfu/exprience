@@ -57,7 +57,6 @@ public class MyThread {
         threadDemo.start();
         threadDemo.sleep(2);
         threadDemo.interrupt();
-
     }
     interface th{
         void ce();
