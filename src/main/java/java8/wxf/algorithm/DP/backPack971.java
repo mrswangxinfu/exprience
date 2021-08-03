@@ -100,14 +100,13 @@ public class backPack971 {
     }
 
     public static void main(String[] args) {
-      int k1 = 3;
-      int k2 = 2;
-      int c = 7;
-      int n = 2;
-      int m = 3;
-      int[] a = {4,3};
-      int[] b = {1,3,2};
-
-      getMaxValue(k1, k2, c, n, m, a, b);
+        int k1 = 3;
+        int k2 = 2;
+        int c = 7;
+        int n = 2;
+        int m = 3;
+        int[] a = {4,3};
+        int[] b = {1,3,2};
+        System.out.println(getMaxValue(k1, k2, c, n, m, a, b));
     }
 }

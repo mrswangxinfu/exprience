@@ -67,9 +67,12 @@ import java.util.concurrent.Executors;
  * 如果先前执行的指令是用户态下的程序，那么这个转换的过程自然也就发生了由用户态到内核态的切换。比如硬盘读写操作完成，系统会切换到硬盘读写的中断处理程序中执行后续操作等。
  *
  * 这3种方式是系统在运行时由用户态转到内核态的最主要方式，其中系统调用可以认为是用户进程主动发起的，异常和外围设备中断则是被动的。
+ *
+ *
+ * 对象锁与全局锁的区别： 对象锁只能锁住一个对象，全局锁是锁住该类的所有对象
  */
 public class MySynchronized {
-    //测试同步同一对象,不同对象则会异步
+    //测试同步同一对象,不同对象则会异步----使用对象锁
     public void testObject (String name) {
         synchronized (this) {
             int i=0;
@@ -85,7 +88,7 @@ public class MySynchronized {
             System.out.println(name+":"+i++);
         }
     }
-    // 测试同步类
+    // 测试同步类---使用全局锁（类锁）
     public void testClass(String name) {
         synchronized (MySynchronized.class) {
             int i=0;
@@ -94,7 +97,7 @@ public class MySynchronized {
             }
         }
     }
-    // synchronized修饰的静态方法锁定的也是这个类的所有对象。
+    // synchronized修饰的静态方法锁定的也是这个类的所有对象---效果和全局锁一致
     public synchronized static void testStaticMethod(String name) {
         int i=0;
         while (i<10) {
