@@ -30,10 +30,10 @@ import java.util.concurrent.*;
  *       线程池流程：
  *           1、 在创建线程池后，等待提交过来的任务请求。
  *           2、当调用execute()添加一个任务时，线程池会做出如下判断：
- *              若正在运行的线程数量小于corePoolSize，那么马上创建线程运行这个任务。
- *              若正在运行的线程数量大于等于corePoolSize，则将任务放入workQueue队列中。
- *              若队列满了且正在运行的线程数量还小于maximumPoolSize，则创建非核心线程数来执行。
- *              若队列满了且正在运行的线程数量大于等于maximumPoolSize，则线程池启动拒绝策略。
+ *              (1)若正在运行的线程数量小于corePoolSize，那么马上创建线程运行这个任务。
+ *              (2)若正在运行的线程数量大于等于corePoolSize，则将任务放入workQueue队列中。
+ *              (3)若队列满了且正在运行的线程数量还小于maximumPoolSize，则创建非核心线程数来执行。
+ *              (4)若队列满了且正在运行的线程数量大于等于maximumPoolSize，则线程池启动拒绝策略。
  *           3、当一个线程完成任务时，会从队列中取出下一个任务来执行。
  *           4、当一个线程无事可做且空闲时间超过keepAliveTime时，线程池会判断若当当前线程数量大于corePoolSize，那么这个线程就被停掉。
  */
@@ -42,7 +42,7 @@ public class MyThreadPool {
         ExecutorService executor = Executors.newCachedThreadPool();
         ExecutorService executor2 = new ThreadPoolExecutor(2,5,30, TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(5),Executors.defaultThreadFactory(), new ThreadPoolExecutor.AbortPolicy());
-        // 创建10个线程
+        // 创建10个线程任务，系统调用创建的线程依然最大为5个，出现10个线程名称不同并不是底层真正创建10个线程
         for (int i=0;i<10;i++) {
             executor.execute(() -> {
                 System.out.println("线程："+Thread.currentThread().getName());

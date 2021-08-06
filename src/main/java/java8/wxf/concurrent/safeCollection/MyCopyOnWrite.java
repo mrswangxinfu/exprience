@@ -8,7 +8,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.CopyOnWriteArraySet;
 
 /**
- * 使用写时复制
+ * 使用写时复制保证集合安全
  */
 public class MyCopyOnWrite {
     public static void main(String[] args) {

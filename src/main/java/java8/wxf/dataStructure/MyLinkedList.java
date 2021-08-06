@@ -26,9 +26,10 @@ public class MyLinkedList extends MyArrayList{
         }
     }
     public static void main(String[] args) {
-//        ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
-//        System.out.println(classLoader);
-//        System.out.println(classLoader.getParent());
-//        System.out.println(classLoader.getParent().getParent());
+        LinkedList<String> linkedList = new LinkedList<>();
+        ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
+        System.out.println(classLoader);
+        System.out.println(classLoader.getParent());
+        System.out.println(classLoader.getParent().getParent());
     }
 }

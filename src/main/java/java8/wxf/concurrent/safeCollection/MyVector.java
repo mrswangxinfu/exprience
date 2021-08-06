@@ -31,7 +31,8 @@ public class MyVector {
             }).start();
         }
         // 其他线程在添加数据,主线程在使用foreach遍历会出现并发修改异常
-        list.forEach(e -> System.out.println(e));
+        list.forEach(System.out::println);
+        executor.shutdown();
 //        for (int i=0; i<list.size(); i++) {
 //            System.out.println("=="+list.get(i));
 //        }
